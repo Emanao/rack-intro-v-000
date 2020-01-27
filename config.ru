@@ -1,4 +1,5 @@
 #require_relative "./application.rb"
+require 'rack'
 
 class Application
 
